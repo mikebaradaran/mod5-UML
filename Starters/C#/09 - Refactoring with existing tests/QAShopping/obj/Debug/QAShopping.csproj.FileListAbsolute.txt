@@ -1,0 +1,7 @@
+C:\QA\Software Craft - ADXD2SD4M5\Starters\C#\5 - Refactoring with existing tests\QAShopping\bin\Debug\QAShopping.exe.config
+C:\QA\Software Craft - ADXD2SD4M5\Starters\C#\5 - Refactoring with existing tests\QAShopping\bin\Debug\QAShopping.exe
+C:\QA\Software Craft - ADXD2SD4M5\Starters\C#\5 - Refactoring with existing tests\QAShopping\bin\Debug\QAShopping.pdb
+C:\QA\Software Craft - ADXD2SD4M5\Starters\C#\5 - Refactoring with existing tests\QAShopping\obj\Debug\QAShopping.csprojAssemblyReference.cache
+C:\QA\Software Craft - ADXD2SD4M5\Starters\C#\5 - Refactoring with existing tests\QAShopping\obj\Debug\QAShopping.csproj.CoreCompileInputs.cache
+C:\QA\Software Craft - ADXD2SD4M5\Starters\C#\5 - Refactoring with existing tests\QAShopping\obj\Debug\QAShopping.exe
+C:\QA\Software Craft - ADXD2SD4M5\Starters\C#\5 - Refactoring with existing tests\QAShopping\obj\Debug\QAShopping.pdb

@@ -1,0 +1,14 @@
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.csprojAssemblyReference.cache
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.csproj.CoreCompileInputs.cache
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.AssemblyInfoInputs.cache
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.AssemblyInfo.cs
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\bin\Debug\netcoreapp2.1\TestingPatterns.deps.json
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\bin\Debug\netcoreapp2.1\TestingPatterns.runtimeconfig.json
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\bin\Debug\netcoreapp2.1\TestingPatterns.runtimeconfig.dev.json
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\bin\Debug\netcoreapp2.1\TestingPatterns.dll
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\bin\Debug\netcoreapp2.1\TestingPatterns.pdb
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.dll
+C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.pdb

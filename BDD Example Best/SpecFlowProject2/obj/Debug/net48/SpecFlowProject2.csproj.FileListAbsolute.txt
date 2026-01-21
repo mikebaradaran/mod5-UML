@@ -1,0 +1,52 @@
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\LivingDoc.Dtos.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\LivingDoc.SpecFlowPlugin.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\SpecFlowProject2.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\SpecFlowProject2.pdb
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\BoDi.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\Cucumber.Messages.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\Gherkin.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\Google.Protobuf.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\TechTalk.SpecFlow.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\SpecFlow.Internal.Json.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.csprojAssemblyReference.cache
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.csproj.CoreCompileInputs.cache
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.AssemblyInfoInputs.cache
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.AssemblyInfo.cs
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.csproj.CopyComplete
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.dll
+C:\Users\mikeb\source\repos\SpecFlowProject2\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.pdb
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\LivingDoc.Dtos.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\LivingDoc.SpecFlowPlugin.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\SpecFlowProject2.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\SpecFlowProject2.pdb
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\BoDi.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\Cucumber.Messages.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\Gherkin.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\Google.Protobuf.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\TechTalk.SpecFlow.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\SpecFlow.Internal.Json.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\bin\Debug\net48\System.ValueTuple.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.csprojAssemblyReference.cache
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.csproj.CoreCompileInputs.cache
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.AssemblyInfoInputs.cache
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.AssemblyInfo.cs
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.csproj.CopyComplete
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.dll
+C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowProject2\obj\Debug\net48\SpecFlowProject2.pdb

@@ -1,0 +1,54 @@
+public class BankAccount
+{
+    long accountNumber; // required prop
+    string owner, branch;
+    double balance, interestRate;
+
+    public class Builder
+    {
+        BankAccount account;
+        public Builder(long accountNumber)
+        {
+            account.accountNumber = accountNumber;
+        }
+
+        public Builder withOwner(string owner)
+        {
+            account.owner = owner;
+            return this;
+        }
+
+        public Builder atBranch(string branch)
+        {
+            account.branch = branch;
+            return this;
+        }
+
+        public Builder openingBalance(double balance)
+        {
+            account.balance = balance;
+            return this;
+        }
+
+        public Builder atRate(double interestRate)
+        {
+            account.interestRate = interestRate;
+            return this;
+        }
+
+        public BankAccount build()
+        {
+            return account;
+        }
+    }
+}
+class prog
+{
+    public BankAccount demo()
+    {
+        return new BankAccount.Builder(1234).
+            atBranch("London").
+            atRate(20).
+            build();
+    }
+}

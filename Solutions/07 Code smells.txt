@@ -1,0 +1,94 @@
+public abstract class Account
+{
+    public int AccountNumber { get; set; }
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+    public string Address { get; set; }
+    public double Balance { get; protected set; }
+
+    public virtual void Deposit(double amount)
+    {
+        Balance += amount;
+    }
+
+    public abstract void Withdraw(double amount);
+}
+-------------------------------------------------------
+public class DepositAccount : Account, IInterestBearing
+{
+    public void AddInterest()
+    {
+        Balance += Balance * 0.0001;
+    }
+
+    public override void Withdraw(double amount)
+    {
+        if (amount > Balance)
+            throw new Exception("Insufficient funds");
+        Balance -= amount;
+    }
+}
+-------------------------------------------------------------
+public class CurrentAccount : Account, IOverdraftable, IPayeeProcessor
+{
+    public double OverdraftLimit { get; private set; }
+    private List<Payee> directDebits = new();
+    private List<Payee> standingOrders = new();
+
+    public void SetOverdraftLimit(double limit)
+    {
+        OverdraftLimit = limit;
+    }
+
+    public override void Withdraw(double amount)
+    {
+        if (amount > Balance + OverdraftLimit)
+            throw new Exception("Overdraft limit exceeded");
+        Balance -= amount;
+    }
+
+    public bool IsOverdrawn()
+    {
+        return Balance < 0;
+    }
+
+    public void ProcessDirectDebits()
+    {
+        foreach (var payee in directDebits)
+        {
+            // Processing logic
+        }
+    }
+
+    public void ProcessStandingOrders()
+    {
+        foreach (var payee in standingOrders)
+        {
+            // Processing logic
+        }
+    }
+}
+---------------------------------------------------------------
+public interface IInterestBearing
+{
+    void AddInterest();
+}
+
+public interface IOverdraftable
+{
+    void SetOverdraftLimit(double limit);
+    bool IsOverdrawn();
+}
+
+public interface IPayeeProcessor
+{
+    void ProcessDirectDebits();
+    void ProcessStandingOrders();
+}
+----------------------------------------------------------------
+
+public class Payee
+{
+    public string Name { get; set; }
+    public double Amount { get; set; }
+}
