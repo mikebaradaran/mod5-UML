@@ -1016,11 +1016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikeb\\Desktop\\Mod-5 V1+2\\BDD Example Best\\SpecFlowProjectDemo\\SpecFlowProjectDemo.csproj",
+      "projectUniqueName": "C:\\QA\\2026 QA courses\\2025 M5\\BDD Example Best\\SpecFlowProjectDemo\\SpecFlowProjectDemo.csproj",
       "projectName": "SpecFlowProjectDemo",
-      "projectPath": "C:\\Users\\mikeb\\Desktop\\Mod-5 V1+2\\BDD Example Best\\SpecFlowProjectDemo\\SpecFlowProjectDemo.csproj",
+      "projectPath": "C:\\QA\\2026 QA courses\\2025 M5\\BDD Example Best\\SpecFlowProjectDemo\\SpecFlowProjectDemo.csproj",
       "packagesPath": "C:\\Users\\mikeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikeb\\Desktop\\Mod-5 V1+2\\BDD Example Best\\SpecFlowProjectDemo\\obj\\",
+      "outputPath": "C:\\QA\\2026 QA courses\\2025 M5\\BDD Example Best\\SpecFlowProjectDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -32,10 +32,10 @@ namespace SpecFlowProject2.Steps
         private Student stu;
 
         [Given(@"I have entered following info for Student")]
-        public void GivenIHaveEnteredFollowingInfoForStudent(Table table)
+        public void GivenIHaveEnteredFollowingInfoForStudent(Table x)
         {
             // converting supplied input data directly to an instance of Student
-            stu = table.CreateInstance<Student>();
+            stu = x.CreateInstance<Student>();
         }
 
         [When(@"I press the Add button")]
