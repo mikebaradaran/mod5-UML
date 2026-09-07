@@ -12,10 +12,20 @@ namespace UnitTests
     public class CalculatorTests
     {
         [Test]
-        public void Subtract_ValidString_CalculatesResult()
+        public void When_new_item_is_added_the_count_of_items_in_the_basket_is_increased_by_one()
         {
-            Assert.Pass();
-            //Assert.Fail("Not yet implemented...");
+            ShoppingBasket shoppingBasket = new ShoppingBasket();
+            shoppingBasket.add(new ShoppingBasketItem("Book",5));
+
+        }
+
+        [Test]
+        public void When_the_same_item_is_added_the_count_of_items_in_the_basket_remains_the_same_and_the_added_item_quantity_is_increased_by_1()
+        {
+
         }
     }
 }
+
+2.	
+

@@ -10,6 +10,7 @@ namespace SpecFlowProject2.Steps
     public class PlacesSteps
     {
         string city, location, res;
+
         [Given(@"the city is (.*) And the location is (.*)")]
         public void GivenTheCityIsLondonAndTheLocationIsSouth(string city, string location)
         {

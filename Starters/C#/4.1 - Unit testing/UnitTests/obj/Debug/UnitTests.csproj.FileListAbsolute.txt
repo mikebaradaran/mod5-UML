@@ -1,0 +1,2 @@
+C:\QA\2026 QA courses\2025 M5\Starters\C#\4.1 - Unit testing\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\QA\2026 QA courses\2025 M5\Starters\C#\4.1 - Unit testing\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
