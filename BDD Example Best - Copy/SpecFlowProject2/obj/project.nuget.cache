@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "JDbsl4STwU4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Courses\\mod5-UML\\BDD Example Best - Copy\\SpecFlowProject2\\SpecFlowProject2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.test.sdk\\17.0.0\\microsoft.net.test.sdk.17.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mstest.testadapter\\2.2.7\\mstest.testadapter.2.2.7.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mstest.testframework\\2.2.7\\mstest.testframework.2.2.7.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\specflow\\3.9.74\\specflow.3.9.74.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\specflow.mstest\\3.9.22\\specflow.mstest.3.9.22.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\specflow.plus.livingdocplugin\\3.9.57\\specflow.plus.livingdocplugin.3.9.57.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.74\\specflow.tools.msbuild.generation.3.9.74.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\specflow.xunit\\3.9.74\\specflow.xunit.3.9.74.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\validation\\2.4.18\\validation.2.4.18.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xunit.abstractions\\2.0.2\\xunit.abstractions.2.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xunit.core\\2.4.0\\xunit.core.2.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xunit.extensibility.core\\2.4.0\\xunit.extensibility.core.2.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xunit.skippablefact\\1.3.12\\xunit.skippablefact.1.3.12.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: SpecFlow.MsTest 3.9.22 requires SpecFlow (= 3.9.22) but version SpecFlow 3.9.74 was resolved.",
+      "projectPath": "C:\\Users\\user\\Desktop\\Courses\\mod5-UML\\BDD Example Best - Copy\\SpecFlowProject2\\SpecFlowProject2.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\user\\Desktop\\Courses\\mod5-UML\\BDD Example Best - Copy\\SpecFlowProject2\\SpecFlowProject2.csproj",
+      "libraryId": "SpecFlow",
+      "targetGraphs": [
+        "net48"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: SpecFlow.MsTest 3.9.22 requires SpecFlow.Tools.MsBuild.Generation (= 3.9.22) but version SpecFlow.Tools.MsBuild.Generation 3.9.74 was resolved.",
+      "projectPath": "C:\\Users\\user\\Desktop\\Courses\\mod5-UML\\BDD Example Best - Copy\\SpecFlowProject2\\SpecFlowProject2.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\user\\Desktop\\Courses\\mod5-UML\\BDD Example Best - Copy\\SpecFlowProject2\\SpecFlowProject2.csproj",
+      "libraryId": "SpecFlow.Tools.MsBuild.Generation",
+      "targetGraphs": [
+        "net48"
+      ]
+    }
+  ]
+}
